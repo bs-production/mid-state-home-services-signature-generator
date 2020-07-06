@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1531/carolina-bs-header-logo.png" alt="" style="width:300px">
+            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/169/franks-basement-systems-log-with-services_-_Copy.png" alt="" style="width:275px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Carolina Basement Systems
+                    &copy;2020 Franks Basement Systems
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #1aaee4;
+  border-top: 1px dashed #20409a;
 }
 .gif-box ul {
     text-align:left;
@@ -202,24 +202,25 @@ input:disabled {
   margin-right: 100px;
 }
 .hero.is-primary {
-  background-color: #1aaee4;
+  background-color: #fff;
+  border-bottom: 1px solid #000;
 }
 .button {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #1aaee4;
+  background-color: #20409a;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #ef7caf;
+  background-color: #0033c0;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #ef7caf;
+  border-color: #0033c0;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
@@ -227,16 +228,17 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #ffffff;
+  color: #20409a;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 30px;
+  margin: 20px auto;
 }
 .hero-body {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #ef7caf;
+  border-color: #20409a;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,

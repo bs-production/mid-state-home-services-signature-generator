@@ -1,4 +1,4 @@
-# Carolina Basement Systems Email Signature Generator for Microsoft Outlook
+# Franks Basement Systems Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 
