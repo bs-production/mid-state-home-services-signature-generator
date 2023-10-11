@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/169/franks-basement-systems-log-with-services_-_Copy.png" alt="" style="width:275px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/222/John-Cosseys-CS-Solutions-of-AR-logo.png" alt="" style="width:275px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Franks Basement Systems
+                    &copy;2023 Arkansas Crawl Space Solutions
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #20409a;
+  border-top: 1px dashed #17539b;
 }
 .gif-box ul {
     text-align:left;
@@ -209,7 +209,7 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #20409a;
+  background-color: #17539b;
   border-color: transparent;
   color: #fff;
 }
@@ -228,7 +228,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #20409a;
+  color: #17539b;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -238,7 +238,7 @@ input:disabled {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #20409a;
+  border-color: #17539b;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
