@@ -5,10 +5,10 @@
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
-              <a href="https://www.arkansascrawlspace.com">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/222/john-cosseys-cs-signature-logo-bar.png" name="preview-image-url" />
+              <a href="https://www.midstatehomeservices.com">
+                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3918/mid-State-hs-signature-logo-bar.png" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/222/john-cosseys-cs-signature-logo-bar.png" name="preview-image-url" />
+                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3918/mid-State-hs-signature-logo-bar.png" name="preview-image-url" />
               </a>
             </td>
             
@@ -18,7 +18,7 @@
             "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
               <tr>
                   <td colspan="2" style=
-                  "padding-bottom: 5px; color: #00aeef; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
+                  "padding-bottom: 5px; color: #0054A6; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
                   {{fullName}}
                   </td>
                 </tr>
@@ -34,7 +34,7 @@
              
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #00aeef; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #0054A6; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Office:
                   </td>
                   <td valign="top" style=
@@ -44,7 +44,7 @@
                 </tr>
                 <tr v-show="mobilePhoneSwitch">
                 <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #00aeef; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #0054A6; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Mobile:
                   </td>
                   <td valign="top" style=
@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                     <td width="20" valign="top" style=
-                    "vertical-align: top; width: 20px; color: #00aeef; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                    "vertical-align: top; width: 20px; color: #0054A6; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                     Email:
                     </td>
                     <td valign="top" style=
@@ -65,18 +65,18 @@
                   </tr>
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #00aeef; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #0054A6; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Web:
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  <a href="https://www.arkansascrawlspace.com" style=
+                  <a href="https://www.midstatehomeservices.com" style=
                   "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
-                    arkansascrawlspace.com</a>
+                    midstatehomeservices.com</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr>
-                 <tr>
+                 <!-- <tr>
                   <td colspan="2" style="padding-top: 5px;">
                     <a href="https://www.facebook.com/ARcrawlspace" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
@@ -85,20 +85,20 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/facebook.png" /></a>
                     
-                    <!-- <a href="https://www.linkedin.com/company/franksbasements" style=
+                    <a href="https://www.linkedin.com/company/franksbasements" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a> -->
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a>
                     
-                    <!-- <a href="https://www.youtube.com/channel/UCop6hiVtGvTDem0UqPppINw"
+                    <a href="https://www.youtube.com/channel/UCop6hiVtGvTDem0UqPppINw"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/youtube.png" /></a> -->
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/youtube.png" /></a>
 
                     <a href="https://www.instagram.com/arcrawlspace"
                     style=
@@ -115,16 +115,16 @@
                     src=
                     "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" />
                     </a>
-<!-- 
+
                     <a href="https://twitter.com/FranksBasements"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/169/twitter-icon.png" /></a> -->
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/169/twitter-icon.png" /></a>
                   </td>
-                </tr> 
+                </tr>  -->
               </table>
             </td>
           </tr>
@@ -182,6 +182,6 @@ li {
 }
 
 a {
-  color: #00aeef;
+  color: #0054A6;
 }
 </style>

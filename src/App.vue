@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/222/John-Cosseys-CS-Solutions-of-AR-logo.png" alt="" style="width:275px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3918/Mid-State%20Home%20Services_4C%20(1).svg" alt="" style="width:275px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2023 Arkansas Crawl Space Solutions
+                    &copy;2024 Mid-State Home Services
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #00aeef;
+  border-top: 1px dashed #0054A6;
 }
 .gif-box ul {
     text-align:left;
@@ -209,7 +209,7 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #00aeef;
+  background-color: #0054A6;
   border-color: transparent;
   color: #fff;
 }
@@ -228,7 +228,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #00aeef;
+  color: #0054A6;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -238,7 +238,7 @@ input:disabled {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #00aeef;
+  border-color: #0054A6;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,

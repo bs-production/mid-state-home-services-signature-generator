@@ -1,4 +1,4 @@
-# Arkansas Crawl Space Solutions Email Signature Generator for Microsoft Outlook
+# Mid-State Home Services Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 
