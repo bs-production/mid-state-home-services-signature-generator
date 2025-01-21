@@ -8,7 +8,7 @@
             <img src="https://cdn.treehouseinternetgroup.com/cms_images/3918/midstate-homeservices-3-600px.png" alt="" style="width:275px">
           </div>
         <h1 class="sub-text title has-text-centered">
-            <p>Signature Generator</p> 
+            <p>Signature Generator</p>
         </h1>
         </div>
       </div>
