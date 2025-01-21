@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3918/Mid-State%20Home%20Services_4C%20(1).svg" alt="" style="width:275px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3918/midstate-homeservices-3-600px.png" alt="" style="width:275px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2024 Mid-State Home Services
+                    &copy;2025 Mid-State Home Services
                 </p>
             </div>
         </div>
